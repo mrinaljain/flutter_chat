@@ -25,9 +25,10 @@ dependencies:
     sdk: flutter
   cloud_firestore: ^0.13.5
   cupertino_icons: ^1.0.2
-  firebase_auth: ^0.16.1
+  firebase_auth: ^0.16.0
   firebase_storage: ^3.1.5
   image_picker: ^0.6.5+3
+  firebase_messaging: ^6.0.13
 
 dev_dependencies:
   flutter_test:
